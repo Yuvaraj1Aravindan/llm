@@ -1,10 +1,10 @@
 # LLM Assignments
 
-This repository contains assignments completed for the course "Fundamentals of Generative AI".
+This repository contains assignments completed for the course "Neural Network".
 
 ## Course Description
 
-"Fundamentals of Generative AI" is a course that explores various natural language processing (NLP) techniques and machine learning models for understanding and generating text. 
+"Neural Network" is a course that explores various natural language processing (NLP) techniques and machine learning models for understanding and generating text. 
 The course covers topics such as neural language models, sequence-to-sequence models, attention mechanisms, and transformer architectures.
 
 ## Assignments
@@ -21,7 +21,7 @@ To get started with the assignments, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/20million/llm_assignments.git
+git clone https://github.com/Yuvaraj1Aravindan/llm_assignments.git
 ```
 
 2. Navigate to the specific assignment folder you are interested in.
@@ -37,4 +37,4 @@ Contributions to this repository are welcome. If you find any issues or have sug
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Special thanks to the course instructor https://www.linkedin.com/in/sudarsun/ for mentoring and providing the assignments and resources for learning the fundamentals of Generative AI.
+Special thanks to the course instructor https://www.linkedin.com/in/yuvaraj-aravindan-93689a25 for mentoring and providing the assignments and resources for learning the Neural Networks.
